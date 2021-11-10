@@ -1,0 +1,4 @@
+gitscm https://git-scm.com/downloads
+
+smartgit https://www.syntevo.com/smartgit/download/
+
